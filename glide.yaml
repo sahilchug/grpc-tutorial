@@ -1,2 +1,4 @@
 package: github.com/sahilchug/grpc-tutorial
-import: []
+import:
+- package: google.golang.org/grpc
+  version: ~1.18.0
